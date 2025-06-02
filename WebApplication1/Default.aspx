@@ -12,9 +12,9 @@
                  <span class="icon-bar"></span>                        
              </button>
              <a class="navbar-brand" href="<%= ResolveUrl("~/Default.aspx") %>">
-                 <img style="width: 194px;
-    height: 185px;
-    margin: -19px 556px;
+                 <img style="width: 185px;
+    height: 178px;
+    margin: -13px 771px;
     border-radius: 88px;" src="<%= ResolveUrl("~/Images/logo.jpg") %>" alt="Logo" width="120">
              </a>
          </div>
